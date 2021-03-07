@@ -7,6 +7,8 @@
 
 - 1º lugar na Campus Party trazendo soluções inovadoras para aumentar cobertura de vacinação [MetaData](https://github.com/leandrosilvabsb/HackathonZeGotinha)
 
+- Participação no desenvolvimento do novo portal de cadastro de unidades de conservação do Brasil para o ministério do meio ambiente. [CNUC](https://gitlab.com/ipam-amazonia/cnuc)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/leandrosilvabsb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="leandrosilvabsb" height="30" width="40" /></a>
@@ -26,4 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leandrosilvabsb&show_icons=true&locale=en" alt="leandrosilvabsb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leandrosilvabsb&" alt="leandrosilvabsb" /></p>
+
 
