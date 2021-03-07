@@ -7,10 +7,12 @@
 
 - 1º lugar na Campus Party trazendo soluções inovadoras para aumentar cobertura de vacinação do Brasil [MetaData](https://github.com/leandrosilvabsb/HackathonZeGotinha)
 
-- Participação no desenvolvimento do sistema de cadastro de unidades de conservação do Brasil - CNUC
-- Participação no desenvolvimento do sistema informatizado de Monitoria de Reservas Particulares do Patrimônio Natural - SIMRPPN
-- Participação no desenvolvimento do aplicativo Alerta Clima Indígena - ACI
-- Participação no desenvolvimento do aplicativo Termômetro do Código Florestal - TCF
+- Participação no desenvolvimento do sistema de cadastro de unidades de conservação do Brasil - CNUC (MMA)
+- Participação no desenvolvimento do sistema  sistema de gestão de dados geoespaciais - SIGEO (ICMBio)
+- Participação no desenvolvimento do sistema informatizado de Monitoria de Reservas Particulares do Patrimônio Natural - SIMRPPN (ICMBio)
+- Participação no desenvolvimento do aplicativo Alerta Clima Indígena - ACI (IPAM)
+- Participação no desenvolvimento do aplicativo Termômetro do Código Florestal - TCF (IPAM)
+
 
 
 <h3 align="left">Connect with me:</h3>
