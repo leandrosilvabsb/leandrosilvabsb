@@ -7,7 +7,7 @@
 
 - 1º lugar na Campus Party trazendo soluções inovadoras para aumentar cobertura de vacinação [MetaData](https://github.com/leandrosilvabsb/HackathonZeGotinha)
 
-- Participação no desenvolvimento do novo portal de cadastro de unidades de conservação do Brasil para o ministério do meio ambiente. [CNUC](https://gitlab.com/ipam-amazonia/cnuc)
+- Participação no desenvolvimento do novo portal de cadastro de unidades de conservação do Brasil. [CNUC](https://gitlab.com/ipam-amazonia/cnuc)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
