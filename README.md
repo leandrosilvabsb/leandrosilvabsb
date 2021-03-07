@@ -6,12 +6,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leandrosilvabsb" alt="leandrosilvabsb" /></a> </p>
 
 - 1º lugar na Campus Party Brasil trazendo soluções inovadoras para aumentar cobertura de vacinação do Brasil [MetaData](https://github.com/leandrosilvabsb/HackathonZeGotinha)
-- Participação no desenvolvimento do sistema de cadastro de unidades de conservação do Brasil - CNUC 
+- Participação no desenvolvimento do sistema de cadastro de unidades de conservação do Brasil - CNUC
+- Desenvolvimento do protótipo  para o sistema de cadastro de unidades de conservação do Brasil - CNUC  
 - Participação no desenvolvimento do sistema  sistema de gestão de dados geoespaciais - SIGEO
 - Participação no desenvolvimento do sistema informatizado de Monitoria de Reservas Particulares do Patrimônio Natural - SIMRPPN
 - Participação no desenvolvimento do aplicativo Alerta Clima Indígena - ACI 
 - Participação no desenvolvimento do aplicativo Termômetro do Código Florestal - TCF
-
+- Desenvolvimento do protótipo para o dashboard do Termômetro do Código Florestal - TCF
 
 
 <h3 align="left">Connect with me:</h3>
