@@ -11,7 +11,7 @@
 - Participação no desenvolvimento do sistema  sistema de gestão de dados geoespaciais - SIGEO
 - Participação no desenvolvimento do sistema informatizado de Monitoria de Reservas Particulares do Patrimônio Natural - SIMRPPN
 - Participação no desenvolvimento do aplicativo Alerta Clima Indígena - ACI 
-- Participação no desenvolvimento do aplicativo Termômetro do Código Florestal - TCF
+- Participação no desenvolvimento do aplicativo Termômetro do Código Florestal - TCF (Fullstack)
 - Desenvolvimento do protótipo para o dashboard do Termômetro do Código Florestal - TCF
 
 
