@@ -7,8 +7,9 @@
 
 - 1º lugar na Campus Party trazendo soluções inovadoras para aumentar cobertura de vacinação [MetaData](https://github.com/leandrosilvabsb/HackathonZeGotinha)
 
-- Participação no desenvolvimento do novo portal de cadastro de unidades de conservação do Brasil. [CNUC]
-- Participação no desenvolvimento do novo aplicativo Alerta Clima Indígena. [ACI]
+- Participação no desenvolvimento do novo sistema de cadastro de unidades de conservação do Brasil (CNUC)
+- Participação no desenvolvimento do novo aplicativo Alerta Clima Indígena (ACI)
+- Participação no desenvolvimento do novo aplicativo Termômetro do Código Florestal (TCF)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
