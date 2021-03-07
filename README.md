@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leandrosilvabsb" alt="leandrosilvabsb" /></a> </p>
 
-- Soluções inovadoras para aumentar cobertura de vacinação na Campus Party [MetaData](https://github.com/leandrosilvabsb/HackathonZeGotinha)
+- 1º lugar na Campus Party trazendo soluções inovadoras para aumentar cobertura de vacinação [MetaData](https://github.com/leandrosilvabsb/HackathonZeGotinha)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leandrosilvabsb&show_icons=true&locale=en" alt="leandrosilvabsb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leandrosilvabsb&" alt="leandrosilvabsb" /></p>
+
