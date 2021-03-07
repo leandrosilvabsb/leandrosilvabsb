@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leandrosilvabsb" alt="leandrosilvabsb" /></a> </p>
 
-- 1º lugar na Campus Party trazendo soluções inovadoras para aumentar cobertura de vacinação [MetaData](https://github.com/leandrosilvabsb/HackathonZeGotinha)
+- 1º lugar na Campus Party trazendo soluções inovadoras para aumentar cobertura de vacinação do Brasil [MetaData](https://github.com/leandrosilvabsb/HackathonZeGotinha)
 
-- Participação no desenvolvimento do novo sistema de cadastro de unidades de conservação do Brasil (CNUC)
-- Participação no desenvolvimento do novo aplicativo Alerta Clima Indígena (ACI)
-- Participação no desenvolvimento do novo aplicativo Termômetro do Código Florestal (TCF)
+- Participação no desenvolvimento do novo sistema de cadastro de unidades de conservação do Brasil - CNUC, para o MMA
+- Participação no desenvolvimento do novo sistema informatizado de Monitoria de Reservas Particulares do Patrimônio Natural - SIMRPPN, para o ICMBio
+- Participação no desenvolvimento do novo aplicativo Alerta Clima Indígena - ACI
+- Participação no desenvolvimento do novo aplicativo Termômetro do Código Florestal - TCF
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
