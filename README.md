@@ -5,8 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leandrosilvabsb" alt="leandrosilvabsb" /></a> </p>
 
-- 1º lugar na Campus Party trazendo soluções inovadoras para aumentar cobertura de vacinação do Brasil [MetaData](https://github.com/leandrosilvabsb/HackathonZeGotinha)
-
+- 1º lugar na Campus Party Brasil trazendo soluções inovadoras para aumentar cobertura de vacinação do Brasil [MetaData](https://github.com/leandrosilvabsb/HackathonZeGotinha)
 - Participação no desenvolvimento do sistema de cadastro de unidades de conservação do Brasil - CNUC 
 - Participação no desenvolvimento do sistema  sistema de gestão de dados geoespaciais - SIGEO
 - Participação no desenvolvimento do sistema informatizado de Monitoria de Reservas Particulares do Patrimônio Natural - SIMRPPN
