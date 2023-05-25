@@ -14,7 +14,6 @@
 - Participação no desenvolvimento fullstack do aplicativo Termômetro do Código Florestal - TCF 
 - Desenvolvimento do protótipo para o dashboard do Termômetro do Código Florestal - TCF
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/leandrosilvabsb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="leandrosilvabsb" height="30" width="40" /></a>
