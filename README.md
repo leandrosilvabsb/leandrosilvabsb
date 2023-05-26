@@ -1,9 +1,7 @@
 <h1 align="center">Oi 👋, sou Leandro Silva</h1>
 <h3 align="center">Um desenvolvedor de front-end apaixonado por tecnologia.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leandrosilvabsb&label=Profile%20views&color=0e75b6&style=flat" alt="leandrosilvabsb" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leandrosilvabsb" alt="leandrosilvabsb" /></a> </p>
 
 - 1º lugar na Campus Party Brasil trazendo soluções inovadoras para aumentar cobertura de vacinação do Brasil [MetaData](https://github.com/leandrosilvabsb/HackathonZeGotinha)
 - Participação no desenvolvimento do sistema de cadastro de unidades de conservação do Brasil - CNUC
